@@ -1,9 +1,9 @@
 # Hi there, I'm Sarthak 👋 
 
-
+<!--
 [![Website](https://img.shields.io/website?label=sarthak-industries.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://sarthak-industries.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SarthakBhatkar6?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSarthakBhatkar6&screen_name=SarthakBhatkar6)
-
+-->
 
 ## I'm a Developer, and Programmer!!
 
@@ -24,7 +24,21 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/_sarthak_bhatkar#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/_sarthak_bhatkar#gh-dark-mode-only)
+<!--
+&nbsp;&nbsp;
+[![website](./img/hackerrank-light.svg)](https://instagram.com/_sarthak_bhatkar#gh-light-mode-only)
+[![website](./img/hackerrank-dark.svg)](https://instagram.com/_sarthak_bhatkar#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/codechef-light.svg)](https://instagram.com/_sarthak_bhatkar#gh-light-mode-only)
+[![website](./img/codechef-dark.svg)](https://instagram.com/_sarthak_bhatkar#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/leetcode-light.svg)](https://instagram.com/_sarthak_bhatkar#gh-light-mode-only)
+[![website](./img/leetcode-dark.svg)](https://instagram.com/_sarthak_bhatkar#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/codeforces-light.svg)](https://instagram.com/_sarthak_bhatkar#gh-light-mode-only)
+[![website](./img/codeforces-dark.svg)](https://instagram.com/_sarthak_bhatkar#gh-dark-mode-only)
 
+-->
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
