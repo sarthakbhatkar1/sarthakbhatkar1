@@ -8,7 +8,7 @@
 ## I'm a Developer, and Programmer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Learn more about web3 & Robotics
+- 🥅 2022 Goals: Learn more about Generative AI 
 - ⚡ Fun fact: I love to play chess
 
 ### Connect with me:
