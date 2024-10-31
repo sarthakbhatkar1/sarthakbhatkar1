@@ -84,6 +84,9 @@
 
 </details>
 
+![Alt](https://repobeats.axiom.co/api/embed/d93233777ab5e7721f6c2b52f6e47798f72b64e3.svg "Repobeats analytics image")
+
+
 [website]: https://sarthak-industries.com
 [twitter]: https://twitter.com/SarthakBhatkar6
 [instagram]: https://instagram.com/_sarthak_bhatkar
