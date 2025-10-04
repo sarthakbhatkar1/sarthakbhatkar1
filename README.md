@@ -1,93 +1,85 @@
-# Hi there, I'm Sarthak 👋 
+<h1 align="center">Hey there 👋, I'm <a href="https://sarthakbhatkar.com" target="_blank">Sarthak Bhatkar</a></h1>
 
-<!--
-[![Website](https://img.shields.io/website?label=sarthak-industries.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://sarthak-industries.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/SarthakBhatkar6?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSarthakBhatkar6&screen_name=SarthakBhatkar6)
--->
-
-## I'm a Developer, and Programmer!!
-
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2024 Goals: Learn more about Generative AI 
-- ⚡ Fun fact: I love to play chess
-
-### Connect with me:
-
-[![website](./img/globe-light.svg)](https://sarthak-industries.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://sarthak-industries.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/SarthakBhatkar6#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/SarthakBhatkar6#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/sarthakbhatkar#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/sarthakbhatkar#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/_sarthak_bhatkar#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/_sarthak_bhatkar#gh-dark-mode-only)
-<!--
-&nbsp;&nbsp;
-[![website](./img/hackerrank-light.svg)](https://instagram.com/_sarthak_bhatkar#gh-light-mode-only)
-[![website](./img/hackerrank-dark.svg)](https://instagram.com/_sarthak_bhatkar#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/codechef-light.svg)](https://instagram.com/_sarthak_bhatkar#gh-light-mode-only)
-[![website](./img/codechef-dark.svg)](https://instagram.com/_sarthak_bhatkar#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/leetcode-light.svg)](https://instagram.com/_sarthak_bhatkar#gh-light-mode-only)
-[![website](./img/leetcode-dark.svg)](https://instagram.com/_sarthak_bhatkar#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/codeforces-light.svg)](https://instagram.com/_sarthak_bhatkar#gh-light-mode-only)
-[![website](./img/codeforces-dark.svg)](https://instagram.com/_sarthak_bhatkar#gh-dark-mode-only)
-
--->
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
-
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="Deno" width="26px" src="./img/deno-light.svg" style="padding-right:10px;" />
-
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-
-<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
-
-<br />
-<br />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=3BB9FF&center=true&vCenter=true&width=600&lines=Tech+Explorer+%7C+Engineer+%7C+Creator;Backend+Architect+%7C+AI+Enthusiast;Building+Intelligent+and+Scalable+Systems+%F0%9F%9A%80;Always+Learning+and+Pushing+Boundaries+%E2%9C%A8" alt="Typing Animation" />
+</p>
 
 ---
 
+### 👨‍💻 About Me  
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+I’m a **Technology Engineer** passionate about designing and developing **smart, scalable, and meaningful systems** — blending AI, backend, and product thinking.  
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sarthakbhatkar1&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+From **building production-grade backends** to **experimenting with AI models**, I love bridging logic with creativity. I thrive at the intersection of **engineering, design, and innovation** — bringing ideas to life that truly *work and wow*. ⚡  
 
-</details>
+---
 
-![Alt](https://repobeats.axiom.co/api/embed/d93233777ab5e7721f6c2b52f6e47798f72b64e3.svg "Repobeats analytics image")
+### 🧠 My Expertise  
 
+#### 💻 Engineering  
+- Backend Architecture (FastAPI, Node.js, REST APIs)  
+- System Design, Cloud Deployments, Scalability  
+- Database Engineering (Postgres, MongoDB, SQL optimization)  
+- Containerization & CI/CD (Docker, GitHub Actions)  
 
-[website]: https://sarthak-industries.com
-[twitter]: https://twitter.com/SarthakBhatkar6
-[instagram]: https://instagram.com/_sarthak_bhatkar
-[linkedin]: https://linkedin.com/in/sarthakbhatkar
+#### 🧩 AI & ML  
+- Generative AI, LLMs & SLMs  
+- RAG, LangChain, LlamaIndex, Haystack  
+- Model Training, Evaluation, and Guardrail Design  
+- Responsible AI & Multi-model Orchestration  
+
+#### ☁️ Cloud & DevOps  
+- Azure AI Services, Azure Functions, Databricks  
+- API Gateway, Logging, and Observability  
+- End-to-end MLOps pipelines  
+
+#### 🎨 Creative Tech  
+- Building SDKs & AI-driven tools  
+- Automation workflows and creative coding  
+- UI/UX-driven backend logic for smooth integrations  
+
+---
+
+### 🧰 Tools & Technologies  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,azure,docker,git,github,postman,linux,vscode,js,ts,nodejs,react,mongodb,postgres,html,css,figma" />
+</p>
+
+---
+
+### 🔭 Current Focus  
+
+- Designing **AI-powered backend systems** that scale and self-optimize  
+- Building a **CAAS (Chatbot-as-a-Service)** platform for enterprises  
+- Researching **lightweight models (SLMs)** for mobile intelligence  
+- Integrating **Responsible AI principles** into real-world solutions  
+
+---
+
+### 🌍 My Vision  
+
+> “Technology should inspire, simplify, and empower — not overwhelm.”  
+
+I aim to craft solutions that combine **clarity, functionality, and impact** —  
+from backend blueprints to intelligent applications that help businesses grow and people connect.  
+
+---
+
+### 📫 Connect With Me  
+
+<p align="center">
+  <a href="https://sarthakbhatkar.com"><img src="https://img.shields.io/badge/Website-3BB9FF?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sarthakbhatkar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://medium.com/@lostvaynesarthak"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="mailto:sarthakbhatkarofficial@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### ⚡ Fun Zone  
+```text
+💬 Ask me about: AI, backend architecture, automation, creative tech  
+🎸 Off-screen: Guitarist | Explorer | Wishful Singer  
+🧭 Currently: Experimenting with AI SDKs & model evaluation  
+🚀 Motto: Keep building. Keep improving. Keep it real.
