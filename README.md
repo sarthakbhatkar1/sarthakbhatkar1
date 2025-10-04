@@ -16,7 +16,7 @@
 - ⚙️ Focused on designing **scalable AI-integrated architectures**  
 - 🌍 Dreaming big — aiming to build and innovate 
 - 🎸 Off work? You’ll find me **playing guitar**, **writing**, or **discovering new tech**  
-- 💬 Let’s talk about: `AI`, `Backend Systems`, `LLM Orchestration`, `Prompt Engineering`, or `Automation`  
+- 💬 Let’s talk about: `AI`, `Backend Systems`, `LLM Orchestration`, `Automation` or anything related to tech
 
 ---
 
