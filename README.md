@@ -4,7 +4,7 @@
 <h3 align="center">🚀 AI Engineer | Backend Developer | Tech Explorer | Builder of Intelligent Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Backend+Developer;Generative+AI+%7C+LangChain+%7C+LlamaIndex;Building+intelligent+and+scalable+systems;Exploring+emerging+technologies+every+day!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Backend+Developer;Generative+AI+%7C+Agentic+AI;Building+intelligent+and+scalable+systems;Exploring+emerging+technologies+every+day!" alt="Typing Animation" />
 </p>
 
 ---
