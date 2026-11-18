@@ -1,93 +1,86 @@
-<!-- Sarthak Bhatkar | GitHub Profile README -->
+# Hi, I'm Sarthak Bhatkar
 
-<h1 align="center">Hey there 👋, I'm Sarthak Bhatkar</h1>
-<h3 align="center">🚀 AI Engineer | Backend Developer | Tech Explorer | Builder of Intelligent Systems</h3>
+**AI Platform Engineer | LLM Infrastructure | Distributed Systems**
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Backend+Developer;Generative+AI+%7C+Agentic+AI;Building+intelligent+and+scalable+systems;Exploring+emerging+technologies+every+day!" alt="Typing Animation" />
-</p>
+[Website](https://worxlabs.in) · [LinkedIn](https://YOUR-LINKEDIN-URL) · [Medium](https://YOUR-MEDIUM-URL) · [Email](mailto:YOUR-EMAIL)
 
----
+I build infrastructure that helps teams run AI systems reliably and securely in production.
 
-### 🧠 About Me  
-- 💼 Senior Associate @ **State Street**  
-- 💡 Experienced in **Machine Learning**, **Generative AI**, and **Backend Engineering**  
-- 🔭 Currently exploring **SLMs vs LLMs** and their optimization for enterprise applications  
-- ⚙️ Focused on designing **scalable AI-integrated architectures**  
-- 🌍 Dreaming big — aiming to build and innovate 
-- 🎸 Off work? You’ll find me **playing guitar**, **writing**, or **discovering new tech**  
-- 💬 Let’s talk about: `AI`, `Backend Systems`, `LLM Orchestration`, `Automation` or anything related to tech
+I'm a **Lead, AI Platform Engineering at State Street**, working on enterprise AI infrastructure, model access, responsible AI, and high-throughput LLM systems. I also run **[WorxLabs](https://worxlabs.in)**, a studio that builds AI-first SaaS products.
+
+My work sits between backend engineering, distributed systems, AI infrastructure, and developer platforms. I'm most interested in the problems that show up once AI moves past the prototype: latency, reliability, cost, security, observability, and operational complexity.
 
 ---
 
-### ⚙️ Tech Stack & Tools
+## What I Work On
 
-#### 💻 Languages  
-`Python` · `C++` · `JavaScript` · `SQL` · `HTML` · `CSS`
+### Enterprise AI infrastructure
 
-#### 🧩 Frameworks & Libraries  
-`FastAPI` · `Flask` · `LangChain` · `LlamaIndex` · `Transformers` · `PyTorch` · `scikit-learn` · `Pandas` · `NumPy` · `OpenAI API`
+I lead engineering on a governed LLM gateway that gives enterprise applications centralized model access with responsible AI controls built in.
 
-#### ☁️ Cloud & DevOps  
-`Azure` · `Docker` · `Kubernetes` · `PostgreSQL` · `Blob Storage` · `CI/CD` · `GitHub Actions`
+| Metric | Scale / Impact |
+|---|---|
+| LLM traffic | 1.5B+ tokens processed daily |
+| Model ecosystem | Access to 150+ models |
+| Adoption | 21 enterprise teams |
+| Request volume | 100K+ requests daily |
+| Latency | 71% reduction in P50 latency |
+| Cost efficiency | $200K+ quarterly savings |
 
-#### 🧠 AI, ML & GenAI  
-`Generative AI` · `LLMs` · `SLMs` · `Vector Databases` · `Fine-tuning` · `Prompt Engineering` · `LangGraph` · `RAG Systems` · `Data Pipelines`
+*These figures describe enterprise systems I've worked on, not personal open-source projects.*
 
-#### 🧱 Backend & Systems  
-`RESTful APIs` · `System Design` · `Microservices` · `API Integrations` · `Scalable Architecture`
+Areas I work in:
 
-#### 🧰 Tools & Utilities  
-`VS Code` · `Postman` · `Notion` · `Git` · `Azure Portal` · `Swagger`  
+- **Gateway and routing:** multi-model access, provider abstraction, failover, request governance
+- **Responsible AI:** configurable guardrails, content moderation, PII protection, auditability
+- **Performance:** latency, caching, concurrency, resource efficiency
+- **Security:** OAuth2, JWT, managed identities, multi-tenant authorization
+- **Developer experience:** Python and TypeScript SDKs, standardized APIs, onboarding
+- **Operations:** Kubernetes deployments, CI/CD, production support
 
----
+### Research and recognition
 
-### 🌟 Highlights  
-
-- 🚀 **Built production-ready backend systems** powering AI & automation pipelines, serving multiple enterprise-scale projects with high reliability.  
-- 🤖 **Integrated LLMs & SLMs** (LangChain, LlamaIndex) to create intelligent data retrieval, summarization, and generation workflows.  
-- 🧩 **Designed automation workflows** to extract, process, and analyze large datasets efficiently — saving hours of manual work.  
-- ☁️ **Architected cloud-native solutions** on Azure with Dockerized deployments, CI/CD pipelines, and seamless AI integrations.  
-- 🎯 **Implemented Responsible AI guardrails**, ensuring ethical and safe model usage across multiple projects.  
-- 💡 **Creative problem-solving mindset**, blending AI, backend, and system design to tackle complex challenges elegantly.  
-- 🎸 **Tech + Creativity**: Passion for coding, music, and innovation fuels outside-the-box solutions.  
-
----
-
-### 🏆 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarthakbhatkar1&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakbhatkar1&theme=radical" alt="GitHub Streak" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sarthakbhatkar1&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</p>
+- **ContextIQ-RAG:** co-authored a paper on post-retrieval optimization for enterprise RAG
+- **Amdocs AI Challenge:** hackathon winner
 
 ---
 
-### 🌐 Connect With Me  
+## Selected Projects
 
-<p align="center">
-  <a href="https://sarthakbhatkar.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/sarthakbhatkar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:sarthakbhatkarofficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://medium.com/@lostvaynesarthak"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-</p>
-
----
-
-### ✨ Fun Facts  
-- 🧩 Always curious — from backend systems to LLM fine-tuning  
-- 💭 Believe that “AI should simplify, not complicate”  
-- 🛠️ Love creating tools that make technology more human-centric  
-- 🎸 Creativity fuels my logic — tech and art go hand in hand  
+| Project | What it is | Focus |
+|---|---|---|
+| **VanLLM** | Distributed guardrail engine for LLM interactions. Four independently deployable gRPC services with concurrent safety checks, short-circuit execution, and distributed tracing. | AI safety, distributed systems |
+| **SentinelEval** | Evaluation and red-teaming workbench. Configurable suites, LLM-as-a-judge and deterministic scoring, refusal detection, CLI with CI quality gates, and a web dashboard. | AI evaluation, developer tooling |
+| **Vani** | Local voice assistant and agent system. Speech pipeline, local LLM inference, planner and executor, tool registry, and hybrid memory. | Agents, local inference |
+| **Extracto** | Document processing system that extracts structured information from unstructured files. | Extraction pipelines, retrieval |
 
 ---
 
-<h3 align="center">"Code. Create. Break. Learn. Repeat."</h3>
+## Technical Toolkit
 
-<p align="center">
-  <img src="https://github.com/sarthakbhatkar1/sarthakbhatkar1/blob/main/assets/coding.gif" alt="Coding animation" width="250"/>
-</p>
+| Area | Technologies |
+|---|---|
+| Languages | Python, TypeScript, JavaScript, SQL, C++ |
+| Backend | FastAPI, REST, gRPC, Pydantic, SQLAlchemy |
+| AI / LLM | LiteLLM, LangChain, LangGraph, LlamaIndex, Promptflow, RAG, MCP |
+| AI reliability | Guardrails, LLM evaluation (G-Eval, DeepEval), red teaming, model routing |
+| Infrastructure | Kubernetes (AKS), Docker, Azure, AWS, CI/CD |
+| Data and messaging | PostgreSQL, Redis, Azure Event Hubs |
+| Observability | OpenTelemetry, Grafana, distributed tracing |
+
+---
+
+## How I Approach Engineering
+
+A prototype shows something is possible. A production system has to stay reliable under load, handle failures, protect its users, and be maintainable by other engineers. A few principles I follow:
+
+- **Design for failure.** Error handling, observability, and recovery belong in the first version.
+- **Measure before optimizing.** Performance problems are usually architectural.
+- **Make safe behavior the default.** Security and guardrails belong in the platform.
+- **Keep it simple.** Good abstractions make infrastructure easier for other teams to adopt.
+
+---
+
+## Outside Work
+
+I like trying new technologies, building side projects, playing guitar, working out, and watching anime. I'm always glad to talk with engineers working on AI infrastructure, distributed systems, and developer platforms.
